@@ -1,0 +1,8 @@
+print('   THE   FORBIDDEN   CHAMPIONS   ')
+print('')
+print('Welcome. You are now playing: THE FORBIDDEN CHAMPIONS')
+print('Choose one of the 4 forbidden champions:')
+print('Achilles the Trogan War Heron')
+print('Herakles the Legendary')
+print('Perseus the Gorgeon Slayer')
+print('Atlanta the Dreaded Huntress')
